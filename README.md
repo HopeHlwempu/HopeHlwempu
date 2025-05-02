@@ -5,12 +5,11 @@
 
 ---
 
-<!-- Personal gif and text in flex -->
+<!-- Personal gif and text centered -->
 <p align="center">
-  <span style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/HopeHlwempu/HopeHlwempu/main/Duncan%20Trussell%20GIF%20by%20NETFLIX.gif" width="200" alt="Duncan Trussell Vibes" style="margin-right: 20px;" />
-    <em style="font-family: 'Pacifico', cursive; font-size: 28px; color: #FF69B4;">Reality is a simulation but my code isn't 💅</em>
-  </span>
+  <img src="https://raw.githubusercontent.com/HopeHlwempu/HopeHlwempu/main/Duncan%20Trussell%20GIF%20by%20NETFLIX.gif" width="200" alt="Duncan Trussell Vibes" />
+  <br />
+  <em style="font-family: 'Dancing Script', cursive; font-size: 32px; color: #FF69B4;">Reality is a simulation but my code isn't 💅</em>
 </p>
 
 ---
@@ -28,7 +27,6 @@
 
 ```bash
 Languages: Python, JavaScript, HTML/CSS  
-Frameworks: React, Tailwind, Flask  
-Tools: VSCode, Git, Postman  
+Frameworks: React, Tailwind, Flask, Django  
+Tools: VSCode, Git, Postman, Docker  
 Currently learning: TypeScript & UI/UX magic ✨
-
