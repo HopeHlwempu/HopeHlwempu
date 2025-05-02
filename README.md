@@ -23,7 +23,7 @@
 
 ---
 
-### 🧁✨ Tech Toolbox ✨🧁
+### 🖥️🔌⚡ Tech Toolbox 🖥️🔌⚡
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,flask,django,nodejs,docker,vscode,figma" />
 </p>
@@ -33,7 +33,7 @@
 ---
 
 ### 🌸･ﾟ♡･ﾟ Let's Connect ･ﾟ♡･ﾟ🌸
-If you’d like to connect or collaborate, don’t hesitate to reach out — I’d love to chat ⚡
+If you’d like to connect or collaborate, don’t hesitate to reach out — I’d love to chat 🌟
 
 - 🌐 [my website](https://hopehlwempuportfolio.framer.website/)  
 - 💌 starrvansittert@gmail.com  
