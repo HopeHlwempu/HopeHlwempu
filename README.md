@@ -26,6 +26,7 @@
 ### 🛠 Tech Stack
 
 ```bash
+Identity: God's Child 🤍
 Languages: Python, JavaScript, HTML/CSS  
 Frameworks: React, Tailwind, Flask  
 Tools: VSCode, Git, Postman  
