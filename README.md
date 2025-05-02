@@ -25,7 +25,7 @@
 
 ### 🧁✨ Tech Toolbox ✨🧁
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,flask,django,nodejs,docker,framer,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,flask,django,nodejs,docker,vscode,figma" />
 </p>
 
 > *Making love letters for the browser* 💋 
