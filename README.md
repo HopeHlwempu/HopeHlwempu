@@ -31,3 +31,4 @@ Languages: Python, JavaScript, HTML/CSS
 Frameworks: React, Tailwind, Flask  
 Tools: VSCode, Git, Postman  
 Currently learning: TypeScript & UI/UX magic ✨
+
