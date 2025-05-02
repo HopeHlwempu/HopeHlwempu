@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Starr+⭐;A+Passionate+Software+Engineer;Lover+of+code,+creativity,+and+breaking+stereotypes;One+line+of+code+at+a+time)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Starr+⭐;A+Passionate+Software+Engineer;Lover+of+code,+creativity,+and+divine+inspiration;One+line+of+code+keep+the+bugs+away)
