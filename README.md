@@ -14,23 +14,30 @@
 
 ---
 
-### 🌸 About Me
+### 🤍 About Me
 
-- 🔭 Currently building: **PlantPal** 🌱 & **Bible Warriors** 🛡️  
+- 🕊 God's Child 
+- 🔭 Currently building: **PlantPal** 🌱 & **Bible Warriors** 🛡️
 - 💖 I code with compassion, coffee, a little chaos, and a whole lotta prayer  
 - 🎓 Incoming WITS student | Proud HyperionDev Graduate  
 - 🎨 I turn creativity into commits — from poetry to production  
 
 ---
 
-### 🛠 Tech Stack
+### 🧁✨ Tech Toolbox ✨🧁
 
-```bash
-Identity: God's Child 🤍
-Languages: Python, JavaScript, HTML/CSS  
-Frameworks: React, Tailwind, Flask  
-Tools: VSCode, Git, Postman  
-Currently learning: TypeScript & UI/UX magic ✨
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,flask,django,nodejs,git,docker,framer,vscode,figma" />
+</p>
+
+> *Serving code with a touch of sugar and a dash of holy fire.* 🔥
+
+🌸･ﾟ♡･ﾟ Let's Connect ･ﾟ♡･ﾟ🌸
+Let’s code, collab or just connect — don’t be shy!
+
+- 🌐 [starr.dev]([https://hopehlwempu.dev](https://hopehlwempuportfolio.framer.website/))  
+- 💌 starrvansittert@gmail.com  
+- 🦋 [@hopecodes](https://github.com/HopeHlwempu)  
 
 ``` 
 <!-- GitHub Stats --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HopeHlwempu&show_icons=true&count_private=true&theme=radical" alt="Hope's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HopeHlwempu&theme=radical" alt="GitHub Streak" /> </p> <p align="center"><strong>✨ Made with prayer, poetry, and pink terminal energy ✨</strong></p> 
