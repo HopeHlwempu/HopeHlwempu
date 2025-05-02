@@ -12,6 +12,7 @@
   <em style="font-family: 'Dancing Script', cursive; font-size: 32px; color: #FF69B4;">Reality is a simulation but my code isn't 💅</em>
 </p>
 
+
 ---
 
 ### 🤍 About Me
@@ -21,14 +22,16 @@
 - 🎓 Incoming WITS student | Proud HyperionDev Graduate  
 - 🎨 I turn creativity into commits — from poetry to production  
 
+
 ---
 
-### 🖥️🔌⚡ Tech Toolbox 🖥️🔌⚡
+### 🖥️ Tech Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,flask,django,nodejs,docker,vscode,figma" />
 </p>
 
 > *Making love letters for the browser* 💋 
+
 
 ---
 
@@ -38,6 +41,7 @@ If you’d like to connect or collaborate, don’t hesitate to reach out — I�
 - 🌐 [my website](https://hopehlwempuportfolio.framer.website/)  
 - 💌 starrvansittert@gmail.com  
 - 🦋 [@starr.hopey](https://www.instagram.com/starr.hopey/)
+
 
 ---
 
