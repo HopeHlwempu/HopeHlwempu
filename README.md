@@ -17,14 +17,9 @@
 ### 🌸 About Me
 
 - 🔭 Currently building: **PlantPal** 🌱 & **Bible Warriors** 🛡️  
-- 💖 I code with compassion, coffee, a little chaos and a whole lotta prayer
+- 💖 I code with compassion, coffee, a little chaos, and a whole lotta prayer  
 - 🎓 Incoming WITS student | Proud HyperionDev Graduate  
 - 🎨 I turn creativity into commits — from poetry to production  
-
----
-
-<!-- GitHub Stats and Contribution Snake --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HopeHlwempu&show_icons=true&count_private=true&theme=radical" alt="Hope's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HopeHlwempu&theme=radical" alt="GitHub Streak" /> </p> <!-- GitHub Contribution Snake --> <p align="center"> <img src="https://github.com/HopeHlwempu/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
-<p align="center"><strong>✨ Made with prayer, poetry, and Pink Terminal Energy™ ✨</strong></p> ```
 
 ---
 
@@ -36,3 +31,5 @@ Frameworks: React, Tailwind, Flask
 Tools: VSCode, Git, Postman  
 Currently learning: TypeScript & UI/UX magic ✨
 
+``` 
+<!-- GitHub Stats and Contribution Snake --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HopeHlwempu&show_icons=true&count_private=true&theme=radical" alt="Hope's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HopeHlwempu&theme=radical" alt="GitHub Streak" /> </p> <!-- GitHub Contribution Snake --> <p align="center"> <img src="https://github.com/HopeHlwempu/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p> <p align="center"><strong>✨ Made with prayer, poetry, and Pink Terminal Energy™ ✨</strong></p> 
