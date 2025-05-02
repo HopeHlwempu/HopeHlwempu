@@ -5,12 +5,12 @@
 
 ---
 
-<!-- Personal gif under the text -->
+<!-- Personal gif and text in flex -->
 <p align="center">
-  <em>Reality is a simulation but my code isn't 💅</em>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HopeHlwempu/HopeHlwempu/main/Duncan%20Trussell%20GIF%20by%20NETFLIX.gif" width="200" alt="Duncan Trussell Vibes" />
+  <span style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/HopeHlwempu/HopeHlwempu/main/Duncan%20Trussell%20GIF%20by%20NETFLIX.gif" width="200" alt="Duncan Trussell Vibes" style="margin-right: 20px;" />
+    <em style="font-family: 'Pacifico', cursive; font-size: 28px; color: #FF69B4;">Reality is a simulation but my code isn't 💅</em>
+  </span>
 </p>
 
 ---
