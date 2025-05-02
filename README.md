@@ -7,7 +7,7 @@
 
 <!-- Personal gif -->
 <p align="center">
-  <img src="https://github.com/HopeHlwempu/HopeHlwempu/blob/main/duncan-trussell.gif?raw=true" width="500" alt="Duncan Trussell Vibes" />
+  <img src="https://raw.githubusercontent.com/HopeHlwempu/HopeHlwempu/main/Duncan%20Trussell%20GIF%20by%20NETFLIX.gif" width="500" alt="Duncan Trussell Vibes" />
 </p>
 
 <p align="center"><em>Reality is a simulation but my code isn't 💅</em></p>
@@ -20,6 +20,16 @@
 - 💖 I code with compassion, coffee, and a little chaos  
 - 🎓 Incoming WITS student | HyperionDev Grad  
 - 🎨 I turn creativity into commits — from poetry to production  
+
+---
+
+### 🛠 Tech Stack
+
+```bash
+Languages: Python, JavaScript, HTML/CSS  
+Frameworks: React, Tailwind, Flask  
+Tools: VSCode, Git, Postman  
+Currently learning: TypeScript & UI/UX magic ✨
 
 ---
 
