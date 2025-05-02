@@ -17,8 +17,8 @@
 ### 🌸 About Me
 
 - 🔭 Currently building: **PlantPal** 🌱 & **Bible Warriors** 🛡️  
-- 💖 I code with compassion, coffee, and a little chaos  
-- 🎓 Incoming WITS student | HyperionDev Grad  
+- 💖 I code with compassion, coffee, a little chaos and a whole lotta prayer
+- 🎓 Incoming WITS student | Proud HyperionDev Graduate  
 - 🎨 I turn creativity into commits — from poetry to production  
 
 ---
@@ -27,6 +27,7 @@
 
 ```bash
 Languages: Python, JavaScript, HTML/CSS  
-Frameworks: React, Tailwind, Flask, Django  
-Tools: VSCode, Git, Postman, Docker  
+Frameworks: React, Tailwind, Flask  
+Tools: VSCode, Git, Postman  
 Currently learning: TypeScript & UI/UX magic ✨
+
