@@ -5,12 +5,12 @@
 
 ---
 
-<!-- Personal gif next to the text -->
+<!-- Personal gif under the text -->
 <p align="center">
-  <span style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/HopeHlwempu/HopeHlwempu/main/Duncan%20Trussell%20GIF%20by%20NETFLIX.gif" width="200" alt="Duncan Trussell Vibes" style="margin-right: 20px;" />
-    <em>Reality is a simulation but my code isn't 💅</em>
-  </span>
+  <em>Reality is a simulation but my code isn't 💅</em>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HopeHlwempu/HopeHlwempu/main/Duncan%20Trussell%20GIF%20by%20NETFLIX.gif" width="200" alt="Duncan Trussell Vibes" />
 </p>
 
 ---
@@ -31,4 +31,3 @@ Languages: Python, JavaScript, HTML/CSS
 Frameworks: React, Tailwind, Flask  
 Tools: VSCode, Git, Postman  
 Currently learning: TypeScript & UI/UX magic ✨
-
