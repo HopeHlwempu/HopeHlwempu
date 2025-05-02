@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,flask,django,nodejs,docker,vscode,figma" />
 </p>
 
-> *Making love letters for the browser* 
+> *Making love letters for the browser* <3
 
 
 ---
