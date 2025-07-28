@@ -17,7 +17,7 @@
 
 ### 🤍 About Me
 - 🕊 God's Child  
-- 🔭 Currently building: **PlantPal** 🌱 & **Bible Warriors** 🛡️  
+- 🔭 Currently building: **PlantPal** & **Bible Warriors** 
 - 💖 I code with compassion, coffee, a little chaos, and a whole lotta prayer  
 - 🎓 Incoming WITS student | Proud HyperionDev Graduate  
 - 🎨 I turn creativity into commits — from poetry to production  
