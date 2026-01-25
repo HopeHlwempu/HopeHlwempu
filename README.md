@@ -15,11 +15,10 @@
 
 ---
 
-### 🤍 About Me
-- 🕊 God's Child   
-- 💖 I code with compassion, coffee, a little chaos, and a whole lotta prayer  
-- 🎓 Incoming Richfield College student | Proud HyperionDev Graduate  
-- 🎨 I turn creativity into commits — from poetry to production  
+### 🤍 About Me   
+-  I code with compassion, coffee, a little chaos, and a whole lotta prayer  
+-  Incoming Richfield College student | Proud HyperionDev Graduate  
+-  I turn creativity into commits — from poetry to production  
 
 
 ---
