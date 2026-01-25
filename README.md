@@ -36,7 +36,7 @@
 ### 🌸･ﾟ♡･ﾟ Let's Connect ･ﾟ♡･ﾟ🌸
 If you’d like to connect or collaborate, don’t hesitate to reach out — I’d love to chat 🌟
 
-- 🌐 [my website](https://hopehlwempuportfolio.framer.website/)  
+- 🌐 [my website]([https://hopehlwempuportfolio.framer.website/](https://hopehlwempu.vercel.app/))  
 - 💌 starrvansittert@gmail.com  
 - 🦋 [@starr.hopey](https://www.instagram.com/starr.hopey/)
 
